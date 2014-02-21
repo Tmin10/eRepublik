@@ -1,5 +1,7 @@
-[img]http://imageshack.com/a/img829/7793/11nn.png[/img]
-[url=http://www.erepublik.com/en/newspaper/ministry-of-demography-215659/1][img]http://imageshack.com/a/img36/4305/xfzh.png[/img][/url][url=http://www.erepublik.com/en/newspaper/vrooom-vrooom-296256/1][img]http://imageshack.com/a/img542/5669/7zgt.png[/img][/url][url=http://www.erepublik.com/en/newspaper/erussian-mod-187545/1][img]http://imageshack.com/a/img833/3549/lnka.png[/img][/url][url=http://www.erepublik.com/en/newspaper/mofa-of-erussia-203164/1][img]http://imageshack.com/a/img31/6958/0zym.png[/img][/url][url=http://www.erepublik.com/en/newspaper/ministry-of-culture-206820/1][img]http://imageshack.com/a/img842/9674/jrwa.png[/img][/url][url=http://www.erepublik.com/en/newspaper/russia-day-by-day-246707/1][img]http://imageshack.com/a/img836/125/gn4h.png[/img][/url]
+[img]http://4.firepic.org/4/images/2013-07/18/2j5juip4xz8f.png[/img][url=http://www.erepublik.com/en/newspaper/x-paper-ru-297345/1][img]http://4.firepic.org/4/images/2013-07/18/6josvnbptcm9.png[/img][/url][url=http://www.erepublik.com/en/newspaper/erussian-mod-187545/1][img]http://4.firepic.org/4/images/2013-07/18/sigpbna4x6ci.png[/img][/url][url=http://www.erepublik.com/en/newspaper/mofa-of-erussia-203164/1][img]http://4.firepic.org/4/images/2013-07/18/dsb2h07dilw5.png[/img][/url][url=http://www.erepublik.com/en/newspaper/ministry-of-culture-206820/1][img]http://4.firepic.org/4/images/2013-07/18/zykj1whi6ny7.png[/img][/url][url=http://www.erepublik.com/en/newspaper/russia-day-by-day-246707/1][img]http://4.firepic.org/4/images/2013-07/18/2z1ou3wylyqt.png[/img][/url][url=http://www.erepublik.com/en/newspaper/ministry-of-demography-215659/1][img]http://4.firepic.org/4/images/2013-07/18/xmx7yj1o8axy.png[/img][/url][img]http://4.firepic.org/4/images/2013-07/18/x57sivp0kfo6.png[/img]
+
+
+
  
 [img]http://s018.radikal.ru/i507/1203/01/67acea3a46bf.jpg[/img]
  
@@ -10,9 +12,9 @@
  
 [b]О системе вознаграждения, т.е. о Котиках[/b]
  
-[INDENT]❶ [b]З[/b]а выполнение квестов игроку начисляется согласно таблице некоторое количество [b]условных единиц[/b]. Мы назвали их [b]"Котики"[/b].
+[INDENT]? [b]З[/b]а выполнение квестов игроку начисляется согласно таблице некоторое количество [b]условных единиц[/b]. Мы назвали их [b]"Котики"[/b].
  
-❷ [b]В[/b]о время действия скидок, игрок может обменять накопленные им Котики [i](все или часть)[/i] на золото для улучшения тренировочных полигонов. Ближайшие скидки ожидаются в первой половине февраля.
+? [b]В[/b]о время действия скидок, игрок может обменять накопленные им Котики [i](все или часть)[/i] на золото для улучшения тренировочных полигонов. Ближайшие скидки ожидаются в первой половине февраля.
  
 [u]Предупреждаем:[/u]
 [INDENT]• [b]мы потребуем предоставить скриншоты[/b], подтверждающие баланс и развитие тренировочных центров
@@ -94,20 +96,36 @@
 [b]Задача:[/b] привести друга в [url=http://www.erepublik.com/en/article/-rwa-1-2288115/1/20]РВА[/url] [I](друг должен указать вас как пригласившего в заявке, заполняемой при вступлении)[/I] — [b]15 Котиков[/b]
 Доступен для выполнения игрокам до 28 уровня (включительно)
 [I][b]Внимание![/b] Награда начисляется после прохождения приглашённым [b]КМБ РВА[/b]. Квест можно выполнять неоднократно. Заполнение формы сдачи квеста не требуется![/I]
+[/columns]
 
-[img]http://f4.s.qip.ru/o8tiVIYH.jpg[/img]
+[columns][img]http://s1.www.erepublik.net/images/achievements/icon_achievement_freedomfighter_on.gif[/img][nextcol][b]8. Борец за свободу[/b]
+[b]Задача:[/b] получите больше медалей "Freedom Fighter"
+[INDENT][B]1[/B] медаль — [B]5[/B] котиков
+[B]2[/B] медаль — [B]20[/B] котиков
+[B]3[/B] медаль — [B]35[/B] котиков
+[B]4[/B] медаль — [B]10[/B] котиков
+[B]5[/B] медаль — [B]30[/B] котиков
+[B]6[/B] медаль — [B]50[/B] котиков
+[B]7[/B] медаль — [B]15[/B] котиков
+[B]8[/B] медаль — [B]40[/B] котиков[/INDENT]
+[IMG]https://dl.dropboxusercontent.com/u/2658962/eRepublik/ind.png[/IMG][i]Начисляются котики за [b]каждую[/b] медаль. Если впервые сдается 4 медали, то будет начислено 5+20+35+10=70 котиков. Если потом сдается 6 медаль, то будет начислено за 5 и 6 медали 30+50 = еще 80 котиков.[/i]
+[/columns]
+
+[center][img]http://f4.s.qip.ru/o8tiVIYH.jpg[/img]
+[/center] 
+[B][i]Все квесты доступны для прохождения только в 1 дивизионе.[/i][/B]
  
-[B][i]Все квесты доступны для прохождения только в 1 и 2 дивизионах.[/i][/B]
+[center][img]http://img203.imageshack.us/img203/5919/2yp7.jpg[/img]
+[/center][center][url=http://gg.gg/questsMinDem][img]http://img829.imageshack.us/img829/7681/e6sw.png[/img][/url][/center]
+[center][b]^^^ДЛЯ СДАЧИ КВЕСТА, НАЖМИ НА КАРТИНКУ ВЫШЕ^^^[/b][/center]
  
-[img]http://img203.imageshack.us/img203/5919/2yp7.jpg[/img]
-[url=http://gg.gg/questsMinDem][img]http://img829.imageshack.us/img829/7681/e6sw.png[/img][/url]
-[b]^^^ДЛЯ СДАЧИ КВЕСТА, НАЖМИ НА КАРТИНКУ ВЫШЕ^^^[/b]
- 
-[IMG]https://dl.dropboxusercontent.com/u/2658962/eRepublik/ind.png[/IMG]• [b]Квесты могут проходить граждане еРоссии 1 и 2 дивизиона.[/b]
+[IMG]https://dl.dropboxusercontent.com/u/2658962/eRepublik/ind.png[/IMG]• [b]Квесты могут проходить граждане еРоссии 1 дивизиона.[/b]
 [IMG]https://dl.dropboxusercontent.com/u/2658962/eRepublik/ind.png[/IMG]• Если вы хотите сдать сразу несколько квестов - заполните форму для каждого квеста отдельно.
 [IMG]https://dl.dropboxusercontent.com/u/2658962/eRepublik/ind.png[/IMG]• [i]Если у вас есть жалобы, идеи для новых квестов или какие-то вопросы — пишите в ЛС [b][url=http://www.erepublik.com/en/main/messages-compose/7555294]Lyminar[/url].[/b][/i]
  
-[img]http://2.firepic.org/2/images/2013-07/16/c29il40d6u5r.png[/img]
+
+
+
  
 [b]Всем новичкам крайне рекомендуется подписаться на эту газету — она является официальной, все самое интересное будет в ней![/b]
  
@@ -116,5 +134,6 @@
 [b]Мы рекомендуем:[/b]
 [INDENT][url=http://www.erepublik.com/en/article/-1-2331794/1/20]•[Новичкам] Информация по игре[/url][/INDENT]
  
-[b]Спасибо за внимание![/b]
-[RIGHT][SUP]V121213modLyminar[/SUP][/RIGHT]
+
+
+[center][i]Министерство демографии. Мы работаем на будущее![/i][/center]
