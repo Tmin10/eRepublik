@@ -1,5 +1,5 @@
-[img]http://4.firepic.org/4/images/2013-07/18/2j5juip4xz8f.png[/img][url=http://www.erepublik.com/en/newspaper/x-paper-ru-297345/1][img]http://4.firepic.org/4/images/2013-07/18/6josvnbptcm9.png[/img][/url][url=http://www.erepublik.com/en/newspaper/erussian-mod-187545/1][img]http://4.firepic.org/4/images/2013-07/18/sigpbna4x6ci.png[/img][/url][url=http://www.erepublik.com/en/newspaper/mofa-of-erussia-203164/1][img]http://4.firepic.org/4/images/2013-07/18/dsb2h07dilw5.png[/img][/url][url=http://www.erepublik.com/en/newspaper/ministry-of-culture-206820/1][img]http://4.firepic.org/4/images/2013-07/18/zykj1whi6ny7.png[/img][/url][url=http://www.erepublik.com/en/newspaper/russia-day-by-day-246707/1][img]http://4.firepic.org/4/images/2013-07/18/2z1ou3wylyqt.png[/img][/url][url=http://www.erepublik.com/en/newspaper/ministry-of-demography-215659/1][img]http://4.firepic.org/4/images/2013-07/18/xmx7yj1o8axy.png[/img][/url][img]http://4.firepic.org/4/images/2013-07/18/x57sivp0kfo6.png[/img]
-
+[img]http://imageshack.com/a/img829/7793/11nn.png[/img]
+[url=http://www.erepublik.com/en/newspaper/ministry-of-demography-215659/1][img]http://imageshack.com/a/img36/4305/xfzh.png[/img][/url][url=http://www.erepublik.com/en/newspaper/vrooom-vrooom-296256/1][img]http://imageshack.com/a/img542/5669/7zgt.png[/img][/url][url=http://www.erepublik.com/en/newspaper/erussian-mod-187545/1][img]http://imageshack.com/a/img833/3549/lnka.png[/img][/url][url=http://www.erepublik.com/en/newspaper/mofa-of-erussia-203164/1][img]http://imageshack.com/a/img31/6958/0zym.png[/img][/url][url=http://www.erepublik.com/en/newspaper/ministry-of-culture-206820/1][img]http://imageshack.com/a/img842/9674/jrwa.png[/img][/url][url=http://www.erepublik.com/en/newspaper/russia-day-by-day-246707/1][img]http://imageshack.com/a/img836/125/gn4h.png[/img][/url]
 
 
  
@@ -12,9 +12,9 @@
  
 [b]О системе вознаграждения, т.е. о Котиках[/b]
  
-[INDENT]? [b]З[/b]а выполнение квестов игроку начисляется согласно таблице некоторое количество [b]условных единиц[/b]. Мы назвали их [b]"Котики"[/b].
+[INDENT]❶ [b]З[/b]а выполнение квестов игроку начисляется согласно таблице некоторое количество [b]условных единиц[/b]. Мы назвали их [b]"Котики"[/b].
  
-? [b]В[/b]о время действия скидок, игрок может обменять накопленные им Котики [i](все или часть)[/i] на золото для улучшения тренировочных полигонов. Ближайшие скидки ожидаются в первой половине февраля.
+❷ [b]В[/b]о время действия скидок, игрок может обменять накопленные им Котики [i](все или часть)[/i] на золото для улучшения тренировочных полигонов. Ближайшие скидки ожидаются в первой половине февраля.
  
 [u]Предупреждаем:[/u]
 [INDENT]• [b]мы потребуем предоставить скриншоты[/b], подтверждающие баланс и развитие тренировочных центров
@@ -26,7 +26,7 @@
  
 [b]Список квестов[/b]:
  
-[columns][img]http://s3.www.erepublik.net/images/modules/rankings/icons/super_soldier.png[/img][nextcol][b]1. Прокачай силу![/b]
+[columns][img]http://s2.www.erepublik.net/images/achievements/icon_achievement_supersoldier_on.gif[/img][nextcol][b]1. Прокачай силу![/b]
 [b]Задача:[/b] максимально прокачать силу, не набирая уровни.
 Данный квест сдается не более одного раза за уровень.
 Суть проста: если у Вас на уровне Х не менее Y силы, вы получаете Z Котиков согласно таблице:
@@ -43,8 +43,8 @@
 ...
 2 500 000 дамага.[/INDENT]
 За [B]каждую ступень[/B] начисляется [B]10 котиков[/B].
-[IMG]https://dl.dropboxusercontent.com/u/2658962/eRepublik/ind.png[/IMG]•[i]Если вы набили сразу, например, 800 000 урона, то вам начисляются котики за 1, 2 и 3 ступень сразу, если вы раньше, конечно, какие-то из них не сдавали.
-[IMG]https://dl.dropboxusercontent.com/u/2658962/eRepublik/ind.png[/IMG]•Всего за получение 2.5кк или более дамага, соответственно, 100 котиков. [/i]
+[IMG]https://dl.dropboxusercontent.com/u/2658962/eRepublik/ind.png[/IMG]•[i]Если вы набили сразу, например, 800 000 урона, то вам начисляются котики за 1, 2 и 3 ступень сразу, если вы раньше, конечно, какие-то из них не сдавали.[/i]
+[IMG]https://dl.dropboxusercontent.com/u/2658962/eRepublik/ind.png[/IMG]•[i]Всего за получение 2.5кк или более дамага, соответственно, 100 котиков. [/i]
 [IMG]https://dl.dropboxusercontent.com/u/2658962/eRepublik/ind.png[/IMG]•[i]Свой максимальный дамаг, нанесенный на текущий момент, вы можете увидеть внизу страницы своего профиля в поле «Top damage in a campaign».[/i]
 [b]Квест доступен до 27 уровня.[/b][/columns]
 
@@ -72,7 +72,7 @@
 [i][u]Примечание.[/u][/i] Для отсеивания любителей халявы сообщаем, что откровенно слабые статьи не будут засчитываться. С другой стороны, за каждую добротную статью участник может получить [b]15[/b] дополнительных котиков.
 
 
-[columns][img]http://s1.www.erepublik.net/images/modules/rankings/icons/true_patriot.png[/img][nextcol][b]5. Настоящий патриот[/b]
+[columns][img]http://s1.www.erepublik.net/images/achievements/icon_achievement_truepatriot_on.gif[/img][nextcol][b]5. Настоящий патриот[/b]
 [b]Задача:[/b] Получить больше медалей "True Patriot"
 [INDENT][B]1[/B] медаль — [B]2[/B] котика
 [B]2[/B] медаль — [B]4[/B] котика
