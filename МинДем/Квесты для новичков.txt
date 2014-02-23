@@ -34,6 +34,8 @@
 Выгоднее сдавать квест ближе к концу уровня.[/columns]
 
 
+
+
 [columns][img]http://s3.www.erepublik.net/images/modules/rankings/icons/cat_6_big.png[/img][nextcol][b]2. Огневой рубеж[/b]
 [b]Задача:[/b] Выбить за еРоссию или ее союзника (смотреть [url=http://www.erepublik.com/en/country/military/Russia]тут[/url] внизу страницы) n дамага [b][u]в одной компании[/u][/b].
 10 ступеней:
@@ -50,6 +52,8 @@
 [b]Квест доступен до 27 уровня.[/b][/columns]
 
 
+
+
 [columns][img]http://s2.www.erepublik.net/images/modules/news/icons/cat_6_big.png[/img][nextcol][b]3. Новые знакомства[/b]
 [b]Задача: [/b] найти N друзей.
 [b]Награда: [/b] 15 котиков за ступень.
@@ -62,6 +66,8 @@
 [i]На 21 уровне можно сдать хоть все четыре ступени. На 25 — только 3 и 4.[/i][/columns]
 
 
+
+
 [columns][img]http://s3.www.erepublik.net/images/modules/rankings/icons/cat_2_big.png[/img][nextcol][b]4. Мастер пера[/b]
 Задача: написать N статей на тему eRepublik.
 [INDENT][b]1[/b] ступень — [b]1[/b] статья — [b]2[/b] голд
@@ -71,6 +77,8 @@
 [b]4[/b] ступень — [b]10[/b] статей — [b]20[/b] котиков[/INDENT][/columns]
 
 [i][u]Примечание.[/u][/i] Для отсеивания любителей халявы сообщаем, что откровенно слабые статьи не будут засчитываться. С другой стороны, за каждую добротную статью участник может получить [b]15[/b] дополнительных котиков.
+
+
 
 
 [columns][img]http://s1.www.erepublik.net/images/achievements/icon_achievement_truepatriot_on.gif[/img][nextcol][b]5. Настоящий патриот[/b]
@@ -85,6 +93,9 @@
 [IMG]https://dl.dropboxusercontent.com/u/2658962/eRepublik/ind.png[/IMG][i]Начисляются котики за [b]каждую[/b] медаль. Если впервые сдается 4 медали, то будет начислено 2+4+6+8=20 котиков. Если потом сдается 6 медаль, то будет начислено за 5 и 6 медали 10+12 = еще 22 котика.[/i][/columns]
 
 
+
+
+
 [columns][img]http://s2.www.erepublik.net/images/modules/news/icons/cat_1_big.png[/img][nextcol][b]6. Ученье — свет[/b]
 [b]1 ступень[/b] — вступить в [url=http://www.erepublik.com/en/article/-rwa-1-2288115/1/20]РВА[/url] или [url=http://www.erepublik.com/en/article/-1-2287037/1/20]Комсомол[/url] — [b]15 Котиков[/b]
 [b]2 ступень[/b] — окончить [url=http://www.erepublik.com/en/article/-rwa-1-2288115/1/20]РВА[/url] или [url=http://www.erepublik.com/en/article/-1-2287037/1/20]Комсомол[/url] — [b]45 Котиков[/b]
@@ -93,11 +104,16 @@
 [b]4 ступень[/b] — окончить 2 курс еУнивера — [b]45 Котиков[/b][/columns]
 
 
+
+
 [columns][img]http://s2.www.erepublik.net/images/modules/news/icons/cat_1_big.png[/img][nextcol][b]7. Пригласи друга[/b]
 [b]Задача:[/b] привести друга в [url=http://www.erepublik.com/en/article/-rwa-1-2288115/1/20]РВА[/url] [I](друг должен указать вас как пригласившего в заявке, заполняемой при вступлении)[/I] — [b]15 Котиков[/b]
 Доступен для выполнения игрокам до 28 уровня (включительно)
 [I][b]Внимание![/b] Награда начисляется после прохождения приглашённым [b]КМБ РВА[/b]. Квест можно выполнять неоднократно. Заполнение формы сдачи квеста не требуется![/I]
 [/columns]
+
+
+
 
 [columns][img]http://s1.www.erepublik.net/images/achievements/icon_achievement_freedomfighter_on.gif[/img][nextcol][b]8. Борец за свободу[/b]
 [b]Задача:[/b] получите больше медалей "Freedom Fighter"
@@ -112,6 +128,9 @@
 [IMG]https://dl.dropboxusercontent.com/u/2658962/eRepublik/ind.png[/IMG][i]Начисляются котики за [b]каждую[/b] медаль. Если впервые сдается 4 медали, то будет начислено 5+20+35+10=70 котиков. Если потом сдается 6 медаль, то будет начислено за 5 и 6 медали 30+50 = еще 80 котиков.[/i]
 [/columns]
 
+
+
+
 [center][img]http://f4.s.qip.ru/o8tiVIYH.jpg[/img][/center] 
 [center][B][i]Все квесты доступны для прохождения только до 29 уровня включительно.[/i][/B][/center]
  
@@ -119,9 +138,9 @@
 [/center][center][url=http://gg.gg/questsMinDem][img]http://img829.imageshack.us/img829/7681/e6sw.png[/img][/url][/center]
 [center][b]^^^ДЛЯ СДАЧИ КВЕСТА, НАЖМИ НА КАРТИНКУ ВЫШЕ^^^[/b][/center]
  
-[IMG]https://dl.dropboxusercontent.com/u/2658962/eRepublik/ind.png[/IMG]• [b]Квесты могут проходить граждане еРоссии 1 дивизиона.[/b]
+[IMG]https://dl.dropboxusercontent.com/u/2658962/eRepublik/ind.png[/IMG]• [b]Квесты могут проходить граждане еРоссии до 29 уровня включительно.[/b]
 [IMG]https://dl.dropboxusercontent.com/u/2658962/eRepublik/ind.png[/IMG]• Если вы хотите сдать сразу несколько квестов - заполните форму для каждого квеста отдельно.
-[IMG]https://dl.dropboxusercontent.com/u/2658962/eRepublik/ind.png[/IMG]• [i]Если у вас есть жалобы, идеи для новых квестов или какие-то вопросы — пишите в ЛС [b][url=http://www.erepublik.com/en/main/messages-compose/7555294]Lyminar[/url].[/b][/i]
+[IMG]https://dl.dropboxusercontent.com/u/2658962/eRepublik/ind.png[/IMG]• [i]Если у вас есть жалобы, идеи для новых квестов или какие-то вопросы — пишите в ЛС [b][url=http://www.erepublik.com/en/main/messages-compose/1343094]Mixa87[/url].[/b][/i]
  
 
 
