@@ -35,7 +35,7 @@
 
 
 [columns][img]http://s3.www.erepublik.net/images/modules/rankings/icons/cat_6_big.png[/img][nextcol][b]2. Огневой рубеж[/b]
-[b]Задача:[/b] Выбить за еРоссию или ее союзника (смотреть [url=http://www.erepublik.com/en/country/military/Russia]тут[/url] внизу страницы) n дамага.
+[b]Задача:[/b] Выбить за еРоссию или ее союзника (смотреть [url=http://www.erepublik.com/en/country/military/Russia]тут[/url] внизу страницы) n дамага [b][u]в одной компании[/u][/b].
 10 ступеней:
 [INDENT]250 000 дамага
 500 000 дамага
@@ -45,7 +45,8 @@
 За [B]каждую ступень[/B] начисляется [B]10 котиков[/B].
 [IMG]https://dl.dropboxusercontent.com/u/2658962/eRepublik/ind.png[/IMG]•[i]Если вы набили сразу, например, 800 000 урона, то вам начисляются котики за 1, 2 и 3 ступень сразу, если вы раньше, конечно, какие-то из них не сдавали.[/i]
 [IMG]https://dl.dropboxusercontent.com/u/2658962/eRepublik/ind.png[/IMG]•[i]Всего за получение 2.5кк или более дамага, соответственно, 100 котиков. [/i]
-[IMG]https://dl.dropboxusercontent.com/u/2658962/eRepublik/ind.png[/IMG]•[i]Свой максимальный дамаг, нанесенный на текущий момент, вы можете увидеть внизу страницы своего профиля в поле «Top damage in a campaign».[/i]
+[IMG]https://dl.dropboxusercontent.com/u/2658962/eRepublik/ind.png[/IMG]•[i]Свой максимальный дамаг, нанесенный на текущий момент, вы можете увидеть внизу страницы своего профиля в поле, которое называется «Top damage in a campaign» в английском интерфейсе игры и «Наибольший урон в кампании» в русском .[/i]
+[IMG]https://dl.dropboxusercontent.com/u/2658962/eRepublik/ind.png[/IMG]•[i]Рекомендуется выполнять квест участвуя в попытке взятия БХ медали или в битвах особой важности для страны. [/i]
 [b]Квест доступен до 27 уровня.[/b][/columns]
 
 
@@ -111,9 +112,8 @@
 [IMG]https://dl.dropboxusercontent.com/u/2658962/eRepublik/ind.png[/IMG][i]Начисляются котики за [b]каждую[/b] медаль. Если впервые сдается 4 медали, то будет начислено 5+20+35+10=70 котиков. Если потом сдается 6 медаль, то будет начислено за 5 и 6 медали 30+50 = еще 80 котиков.[/i]
 [/columns]
 
-[center][img]http://f4.s.qip.ru/o8tiVIYH.jpg[/img]
-[/center] 
-[B][i]Все квесты доступны для прохождения только в 1 дивизионе.[/i][/B]
+[center][img]http://f4.s.qip.ru/o8tiVIYH.jpg[/img][/center] 
+[center][B][i]Все квесты доступны для прохождения только до 29 уровня включительно.[/i][/B][/center]
  
 [center][img]http://img203.imageshack.us/img203/5919/2yp7.jpg[/img]
 [/center][center][url=http://gg.gg/questsMinDem][img]http://img829.imageshack.us/img829/7681/e6sw.png[/img][/url][/center]
